@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Alok Kumar Singh | Course: Open Source Software
+# Author: Hitesh Samal | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Alok Kumar Singh"
+STUDENT_NAME="Hitesh Samal"
 SOFTWARE_CHOICE="Linux Kernel"
 
 # --- System info ---
