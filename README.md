@@ -1,9 +1,9 @@
 # oss-audit-24BAI10233
-# 🐧 Open Source Audit — Linux Shell Scripts
+# OPEN SOURCE AUDIT - LINUX SHELL SCRIPTS
 
 ## STUDENT DETAILS
 **Name:** Hitesh Samal  
-**Roll Number:** YOUR_ROLL_NUMBER  
+**Roll Number:** 24BAI10233 
 **Platform:** Ubuntu Linux  
 **Chosen Software:** Linux Kernel  
 
