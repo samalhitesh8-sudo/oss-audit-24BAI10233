@@ -3,7 +3,7 @@
 # Author: Hitesh Samal | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Hitesh Samal"
+STUDENT_NAME="Alok Kumar Singh"
 SOFTWARE_CHOICE="Linux Kernel"
 
 # --- System info ---
