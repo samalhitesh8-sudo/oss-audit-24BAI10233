@@ -1,7 +1,7 @@
 # oss-audit-24BAI10233
 # 🐧 Open Source Audit — Linux Shell Scripts
 
-## 👤 Student Details
+## STUDENT DETAILS
 **Name:** Hitesh Samal  
 **Roll Number:** YOUR_ROLL_NUMBER  
 **Platform:** Ubuntu Linux  
@@ -9,14 +9,14 @@
 
 ---
 
-## 📌 Project Description
+## PROJECT DESCRIPTION
 This project consists of five Bash shell scripts that demonstrate core Linux system operations and open-source concepts. Each script performs a specific task such as system inspection, package checking, disk analysis, log processing, and generating a personalized open-source manifesto.
 
 All scripts are implemented and tested on Ubuntu Linux.
 
 ---
 
-## ⚙️ Dependencies
+## DEPENDENCIES
 The following tools are required (pre-installed on Ubuntu):
 - Bash shell  
 - coreutils (ls, du, cat, echo)  
@@ -28,9 +28,9 @@ No additional installations are required.
 
 ---
 
-## 📂 Scripts Overview
+## SCRIPTS OVERVIEW
 
-### 1️⃣ Script 1 — System Identity Report
+###  Script 1 — System Identity Report
 This script displays basic system information including:
 - Linux distribution name  
 - Kernel version  
@@ -41,28 +41,28 @@ This script displays basic system information including:
 
 ---
 
-### 2️⃣ Script 2 — FOSS Package Inspector
+###  Script 2 — FOSS Package Inspector
 This script checks whether the Linux Kernel package is installed and displays:
 - Package details (version, description)  
 - A short open-source philosophy message  
 
 ---
 
-### 3️⃣ Script 3 — Disk and Permission Auditor
+###  Script 3 — Disk and Permission Auditor
 This script analyzes important system directories and reports:
 - Directory size  
 - Ownership and permissions  
 
 ---
 
-### 4️⃣ Script 4 — Log File Analyzer
+###  Script 4 — Log File Analyzer
 This script reads a system log file and:
 - Counts occurrences of a keyword (default: "error")  
 - Displays the last 5 matching log entries  
 
 ---
 
-### 5️⃣ Script 5 — Open Source Manifesto Generator
+###  Script 5 — Open Source Manifesto Generator
 This script interacts with the user to:
 - Collect responses to three questions  
 - Generate a personalized open-source manifesto  
